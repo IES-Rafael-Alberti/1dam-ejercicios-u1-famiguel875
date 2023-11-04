@@ -1,4 +1,4 @@
-from src.prueba1 import obtener_mayor
+from prueba1 import obtener_mayor
 
 def test_obtener_mayor():
     assert obtener_mayor(5, 10) == 10
